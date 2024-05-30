@@ -7,6 +7,8 @@ https://github.com/Mrkomiljon/MusePose/assets/92161283/7b75b776-3eff-4eb4-8ba2-1
 
 
 
+
+
 https://github.com/Mrkomiljon/MusePose/assets/92161283/99ba2f8f-8066-4e2a-b78c-703b48704423
 
 
@@ -28,7 +30,7 @@ https://github.com/Mrkomiljon/MusePose/assets/92161283/99ba2f8f-8066-4e2a-b78c-7
         <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/7f7a3aaf-2720-4b50-8bca-3257acce4733" muted="false"></video>
     </td>
     <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/TMElyralab/MusePose/assets/47803475/c56f7e9c-d94d-494e-88e6-62a4a3c1e016" muted="false"></video>
+        <video controls autoplay loop src="https://github.com/Mrkomiljon/MusePose/assets/92161283/a1c4622b-409a-4f66-b830-b7ad45ac494e" muted="false"></video>
     </td>
 </tr>
 
