@@ -9,7 +9,7 @@ https://github.com/Mrkomiljon/MusePose/assets/92161283/7b75b776-3eff-4eb4-8ba2-1
 
 
 
-https://github.com/Mrkomiljon/MusePose/assets/92161283/99ba2f8f-8066-4e2a-b78c-703b48704423
+
 
 
 
